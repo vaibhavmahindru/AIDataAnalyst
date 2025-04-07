@@ -1,0 +1,8 @@
+April 6, 2025:-
+    - Set up virtual environment
+    - Installed Streamlit, Pandas, Openpyxl
+    - Froze requirements.txt
+    - Planned basic layout
+    - .venv\Scripts\activate //toactivate the virtual env.
+
+

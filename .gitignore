@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Env
+venv/
+.env/
+
+# Streamlit
+*.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.sqlite3
+*.log
+.secrets.toml
+.streamlit/secrets.toml
