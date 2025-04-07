@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # deepseek key
-deepseekApiKey = st.secrets["deepseek"]["api_key"]
+# deepseekApiKey = st.secrets["deepseek"]["api_key"]
 
 geminiApiKey = st.secrets["gemini"]["geminiApiKey"]
 # Page config

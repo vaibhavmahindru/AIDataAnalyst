@@ -6,8 +6,7 @@ __pycache__/
 venv/
 .env/
 
-# Streamlit
-*.streamlit/
+
 
 # Jupyter
 .ipynb_checkpoints/
@@ -20,6 +19,5 @@ __pycache__/
 .env
 *.env
 *.sqlite3
+
 *.log
-.secrets.toml
-.streamlit/secrets.toml
